@@ -31,7 +31,7 @@ The IA neural network project was developed by:
 - Professor PhD, Carla Silva - creator of the code base
 
 Code review, testing and creation of new challenges:
-- João Nº2352
+- João Santos Nº2352
 - Gonçalo Gomes Nº2400
 
 
