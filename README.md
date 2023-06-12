@@ -21,7 +21,7 @@ node ProbabilidadeDeChuva.js
 
 ## File Structure
 
-- `sources/challenge-restaurants.js`: The script file for the general challenge.
+- `sources/ProbabilidadeDeChuva.js`: The script file for the general challenge.
 - `README.md`: The documentation file you are currently reading.
 - `package.json`: The npm package configuration file.
 
