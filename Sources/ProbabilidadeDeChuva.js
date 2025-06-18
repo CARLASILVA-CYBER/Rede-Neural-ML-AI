@@ -1,9 +1,5 @@
 // GRUPO
 
-// Daniel Pereira 30363
-// Alexandre Lúcio 30333
-// Rodolfo Francisco 30336
-
 const brain = require('brain.js');
 
 const data = [
